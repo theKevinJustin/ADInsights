@@ -21,3 +21,15 @@ v1.0.1.7  29 Jun 2022 - Security Event rules and scripts, Updated 4720,4726,4728
 v1.0.0.11  3 Mar 2022 - Updated RegEx, DS and WA for reports, 4722 enabling disabled ID
 v1.0.0.7  24 Feb 2022 - Added for 4720,4728 events with RegEx, specific account lockout, Expiring, LastPassSet, WA, Task
 v1.0.0.0  25 Aug 2021 - KWJ - Pack addresses group changes, password last set, expiring, auth failures, and lockout alerts.
+
+
+Proactive Microsoft Windows Server NEC AD 2016 Account Password Customizations 1.0.0.4
+
+Download here
+
+Proactive Microsoft Windows Server NEC AD 2016 Account Password Customizations - Multiple datasources for group changes, including rule and demand tasks for report workflows.
+
+Version History:
+v1.0.0.3  11 Jul 2023 - Added Alert rules for PasswordCheck DS/Task/WA
+v1.0.0.1   8 Jun 2023 - Updated rules to include NEC for subscription purposes - Microsoft Windows Server NEC DC Security EventID 472
+v1.0.0.0   6 Jun 2023 - Created to check NEC AD OU's, alert on DC Security EventID's 4728, 4729 for NEC RC OU named groups
